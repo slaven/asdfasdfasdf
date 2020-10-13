@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ShowInvoice xmlns="http://www.openapplications.org/oagis" xmlns:agr="http://agrokor.hr/agr" xmlns:n="http://www.openapplications.org/oagis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openapplications.org/oagis http://b2bdocs.agrokor.hr/schemas/oagis/8.0/BODs/ShowInvoice.xsd http://agrokor.hr/agr http://b2bdocs.agrokor.hr/schemas/agr/oagis/8.0/UserArea/ShowInvoice_UserArea.xsd" environment="Test" lang="en-US" revision="8.0">
-  <Test123>123</Test123>
+  <Test123>1234</Test123>
 </ShowInvoice>
